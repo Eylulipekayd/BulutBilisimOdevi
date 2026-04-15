@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bulutbilisim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765f5fede2aa64aab3dfebf9e6162e4c3c4de7c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bulutbilisim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bulutbilisim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
